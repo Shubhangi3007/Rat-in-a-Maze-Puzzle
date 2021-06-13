@@ -32,3 +32,5 @@ Suppose, pieces of paneer have been placed in the first, fifth and sixth block. 
 ## Output :
 
 ![Steps](https://user-images.githubusercontent.com/59772587/121692808-19daf180-cae6-11eb-9c3f-2dd612fb1606.jpg)
+![Output](https://user-images.githubusercontent.com/59772587/121800348-d4860380-cc4e-11eb-8218-a06fa623b05a.jpg)
+
